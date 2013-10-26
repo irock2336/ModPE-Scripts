@@ -1,0 +1,7 @@
+function useItem(x,y,z,itemId,blockId,side)
+{
+If (itemId==3){
+ClientMessage("Don't you dare make a dirt house!")
+}
+//©irock2336 2013
+//This is just meant to be a joke!
